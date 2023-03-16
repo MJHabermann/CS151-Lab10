@@ -10,4 +10,5 @@ int main()
 
     greetings1.setGreeting(phrase);
     std::cout << greetings1.getGreeting() << std::endl;
+    return 0;
 }
